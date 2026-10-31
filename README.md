@@ -102,4 +102,4 @@ MIT — free to use, extend, and build on.
 
 ---
 
-*Built by Shadman Mahmood Khan Pathan · [GitHub](https://github.com/Shadman19) · [LinkedIn](https://linkedin.com/in/shadmanmahmood9) · [Portfolio](https://shadman-portfolio.vercel.app)*
+*Built by Shadman Mahmood Khan Pathan · [GitHub](https://github.com/kosar-mahboob) · [LinkedIn](www.linkedin.com/in/kosar-mahboob) · [Portfolio](https://kosar-mahboob.github.io/KosarBibi/)*
